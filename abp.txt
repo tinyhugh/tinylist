@@ -37,3 +37,13 @@ tech.huanqiu.com##.adNoH600
 tech.huanqiu.com###hqssart2
 tech.huanqiu.com##.fashion-list
 tech.huanqiu.com##.conRight
+patch.ali213.net##.gl_paihang8
+patch.ali213.net##.right
+patch.ali213.net###con_a_3
+patch.ali213.net##.zt_content
+patch.ali213.net##.ztbanner
+patch.ali213.net##.patch_info_title_k
+patch.ali213.net##.info_c_k
+patch.ali213.net##.bd_search
+patch.ali213.net##.gl_daohang
+patch.ali213.net##.bd_search_title
