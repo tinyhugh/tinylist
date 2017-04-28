@@ -47,3 +47,4 @@ patch.ali213.net##.info_c_k
 patch.ali213.net##.bd_search
 patch.ali213.net##.gl_daohang
 patch.ali213.net##.bd_search_title
+iqiyi.com##.wrapper-right
