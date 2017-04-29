@@ -48,3 +48,30 @@ patch.ali213.net##.bd_search
 patch.ali213.net##.gl_daohang
 patch.ali213.net##.bd_search_title
 iqiyi.com##.wrapper-right
+k73.com###azbt
+k73.com##.g-nav
+k73.com###menu
+k73.com###viewtopad
+k73.com##.f-cen.f-cle
+k73.com###colbt
+v.youku.com##div[style="width: 299px; height: 249px; position: absolute; overflow: hidden;"]
+v.youku.com##.f30b699fe-8a1e-4d4b-b1b8-5a443e27b9ac1562
+iqiyi.com##.ss6yl2kzrtmuommgpic
+iqiyi.com###ss6yl2kzrtmuommgbox
+iqiyi.com###ss6yl2kzrtmuommgcontent
+iqiyi.com##.f30b699fe-8a1e-4d4b-b1b8-5a443e27b9ac5521
+iqiyi.com##div[style="width: 299px; height: 249px; position: absolute; overflow: hidden;"]
+iqiyi.com##.f30b699fe-8a1e-4d4b-b1b8-5a443e27b9ac2855
+iqiyi.com##.mod-appDownload.mod-appDownload-play
+pc6.com###sidebar
+pc6.com###recomc
+pc6.com###xgd
+kuaihou.com###xiazaiyeshang
+kuaihou.com###xiazaiyexia
+||wm.sikasx.com/xw/elds/img/300-1.jpg
+||wm.sikasx.com/xw/elds/img/300-2.jpg
+||60.222.231.164:8088/yunfile/page01.jpg
+||yunupload.net/images/pixel.gif
+||dy2018.com/dianyq/728db.htm
+||rsytd.com/images/3002504.jpg
+||file.zixiangke.com/img/3002509.jpg
