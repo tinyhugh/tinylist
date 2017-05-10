@@ -75,3 +75,15 @@ kuaihou.com###xiazaiyexia
 ||dy2018.com/dianyq/728db.htm
 ||rsytd.com/images/3002504.jpg
 ||file.zixiangke.com/img/3002509.jpg
+iqiyi.com##.wrapper-right
+newyx.net##.md1
+newyx.net##.mc.mc5
+newyx.net##.tips
+newyx.net##a[style="display:block;width:730px;height:70px;"]
+newyx.net##.photo
+newyx.net##.col-sub
+newyx.net##.fr.ads
+newyx.net##.haddit_new2.cl
+bilibili.com##.v_small
+||static.newyx.net/images/kuai8_box.png?v=2017042901
+||static.newyx.net/images/yd_300.gif
