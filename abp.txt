@@ -87,3 +87,4 @@ newyx.net##.haddit_new2.cl
 bilibili.com##.v_small
 ||static.newyx.net/images/kuai8_box.png?v=2017042901
 ||static.newyx.net/images/yd_300.gif
+zhihu.com##.AdblockBanner
