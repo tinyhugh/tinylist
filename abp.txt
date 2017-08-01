@@ -100,3 +100,4 @@ down.ali213.net##.detail_body_right_six
 down.ali213.net##.detail_body_right_seven
 down.ali213.net##.detail_down_adress_con_bottom_left_part3
 down.ali213.net##.detail_line
+down.ali213.net##.newdown_r
