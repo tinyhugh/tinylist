@@ -101,3 +101,12 @@ down.ali213.net##.detail_body_right_seven
 down.ali213.net##.detail_down_adress_con_bottom_left_part3
 down.ali213.net##.detail_line
 down.ali213.net##.newdown_r
+||rsytd.com/images/3002507.jpg
+yxdown.com##.module-cmt-float-bar-body
+yxdown.com##.module-cmt-float-bar
+yxdown.com##.module-cmt-notice
+v.youku.com##.f30b699fe-8a1e-4d4b-b1b8-5a443e27b9ac2272
+map.qq.com##.sfewsxv226kpic
+map.qq.com###sfewsxv226kbox
+map.qq.com###sfewsxv226kcontent
+map.qq.com##.f30b699fe-8a1e-4d4b-b1b8-5a443e27b9ac7320
