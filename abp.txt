@@ -110,3 +110,9 @@ map.qq.com##.sfewsxv226kpic
 map.qq.com###sfewsxv226kbox
 map.qq.com###sfewsxv226kcontent
 map.qq.com##.f30b699fe-8a1e-4d4b-b1b8-5a443e27b9ac7320
+jb51.net##.topimg
+jb51.net##div[style="width:1000px;height:60px; margin-bottom:10px;"]
+jb51.net##div[style="width:690px; height:60px; background:url(http://img.jb51.net/images/sl/sulang_bg.png) left no-repeat;"]
+||files.jb51.net/image/sulang_1000.gif
+||files.jb51.net/image/ali1000.png
+||files.jb51.net/image/tengxunyun.gif
