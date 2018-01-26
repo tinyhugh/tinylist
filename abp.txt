@@ -116,3 +116,10 @@ jb51.net##div[style="width:690px; height:60px; background:url(http://img.jb51.ne
 ||files.jb51.net/image/sulang_1000.gif
 ||files.jb51.net/image/ali1000.png
 ||files.jb51.net/image/tengxunyun.gif
+xitongzhijia.net##.AD_1200_108.ovh.mb30
+xitongzhijia.net###article_soft_ad1
+xitongzhijia.net##.AD_298_304.mt10.ml20.fl
+cncrk.com##.xguan.sm-soft
+cncrk.com##div[style="width:960px;height:60px;background:#FFF;TEXT-ALIGN:left;text-decoration:none;float:left;margin:0;padding:5px 0 10px 0"]
+||static.xitongzhijia.net/theme/2017/yxhz/0f000KauWoQb8Y_53cD1z6.gif
+||static.xitongzhijia.net/theme/2017/yxhz/bg.jpg
