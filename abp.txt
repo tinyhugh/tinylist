@@ -123,3 +123,17 @@ cncrk.com##.xguan.sm-soft
 cncrk.com##div[style="width:960px;height:60px;background:#FFF;TEXT-ALIGN:left;text-decoration:none;float:left;margin:0;padding:5px 0 10px 0"]
 ||static.xitongzhijia.net/theme/2017/yxhz/0f000KauWoQb8Y_53cD1z6.gif
 ||static.xitongzhijia.net/theme/2017/yxhz/bg.jpg
+baidu.com##.ztuOna
+mydown.yesky.com##.bkdown
+mydown.yesky.com##.head-recomm.mt-20
+mydown.yesky.com##.cl.top
+mydown.yesky.com##.pull-right
+orsoon.com##.down-sect1
+orsoon.com###other-link
+orsoon.com##.prev-content
+orsoon.com###btn-down-one
+||orsoon.com/assets/images/img-down1.gif
+||orsoon.com/assets/images/tzidc.gif
+||orsoon.com/assets/images/ku86.gif
+www.crc1111.net
+@@v.qq.com
