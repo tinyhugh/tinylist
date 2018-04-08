@@ -137,3 +137,14 @@ orsoon.com###btn-down-one
 ||orsoon.com/assets/images/ku86.gif
 www.crc1111.net
 @@v.qq.com
+blog.sina.com.cn##.atcSideList
+blog.sina.com.cn##.adSideList
+blog.sina.com.cn###module_903
+blog.sina.com.cn##.SideCrla
+blog.sina.com.cn###tj_relatedReading
+blog.sina.com.cn##.BNE_blog_feed
+blog.sina.com.cn###_5671517531885697_tj
+blog.sina.com.cn##.horn_con
+blog.sina.com.cn###_5671517531885697_close
+blog.sina.com.cn##.close
+||www.t999.cn
