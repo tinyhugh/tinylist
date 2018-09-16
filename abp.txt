@@ -156,3 +156,11 @@ user.qzone.qq.com###tab_applist_hide
 user.qzone.qq.com###tab_otherlist_show
 user.qzone.qq.com##.fn_accessLog_tips.bg2.bor2
 user.qzone.qq.com###QM_Container_100002
+cr173.com###full_downad
+cr173.com##.c_soft_same.m-soft-relat
+cr173.com##.c_soft_button
+cr173.com##.c_info_comd_one.c_box.affix-top
+cr173.com###downhelp
+cr173.com##.g-top-full
+zh.numberempire.com##.warn
+chinatimes.com##.facebook-page-plugin
