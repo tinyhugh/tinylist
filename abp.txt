@@ -174,10 +174,5 @@ user.qzone.qq.com##.fn_accessLog_tips.bg2.bor2
 user.qzone.qq.com###QM_Container_100002
 16xx8.com##.child_adheight.f
 sh.qihoo.com##.pop.js-hongbao
-||51wady.com/960-90-3.gif
-||51wady.com/960-90-4.png
-||51wady.com/960-90-1.gif
-||51wady.com/960-90-2.gif
-||51wady.com/960-90-5.png
-||51wady.com/960-90-6.gif
+||51wady.com/960*
 ||p4.ssl.qhimg.com/t011608055395b49527.jpg
