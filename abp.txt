@@ -183,3 +183,12 @@ bbs.3dmgame.com##.wp.a_h
 music.taihe.com##.vip-app
 music.taihe.com##.vip-app-bg.\35 55555
 ||aecpm.alicdn.com/simba/img/TB1O7plk3HqK1RjSZFPSuwwapXa.jpg
+zhuanlan.zhihu.com##.Recommendations-Main
+juejin.im##.extension
+juejin.im##.article-suspended-panel
+juejin.im##.entry-public-aside
+||duouoo-web.oss-cn-hangzhou.aliyuncs.com/vss/222.jpg
+google.com###brs
+google.com###imagebox_bigimages
+baidu.com##
+baidu.com##.FYB_RD
