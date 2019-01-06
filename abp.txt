@@ -192,3 +192,6 @@ google.com###brs
 google.com###imagebox_bigimages
 baidu.com##
 baidu.com##.FYB_RD
+buyertrade.taobao.com##img[src="https://aecpm.alicdn.com/simba/img/TB1DAclkirpK1RjSZFhSutSdXXa.jpg"]
+buyertrade.taobao.com###alimm-pillar
+||tb1.bdstatic.com/tb/cms/ngmis/images/file_*.png
