@@ -195,3 +195,13 @@ baidu.com##.FYB_RD
 buyertrade.taobao.com##img[src="https://aecpm.alicdn.com/simba/img/TB1DAclkirpK1RjSZFhSutSdXXa.jpg"]
 buyertrade.taobao.com###alimm-pillar
 ||tb1.bdstatic.com/tb/cms/ngmis/images/file_*.png
+search1990.com##.banner.banner-related
+new.qq.com##.RIGHT
+new.qq.com##.recommend
+toutiao.com##.detail-feed
+toutiao.com##.bui-right.index-right
+sdbeta.com##.col_right
+sdbeta.com##.tagwell
+sdbeta.com##.xiangguan
+sdbeta.com##.para-xgsoftM
+sdbeta.com##.para-titleXX
