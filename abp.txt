@@ -205,3 +205,14 @@ sdbeta.com##.tagwell
 sdbeta.com##.xiangguan
 sdbeta.com##.para-xgsoftM
 sdbeta.com##.para-titleXX
+zhmdy.top##.tit-name
+nexusmods.com##.areplacer
+ssr.tools##.asb.asb-post.asb-post-01
+sd.zjtcn.com###mask_layer_jjhd
+sd.zjtcn.com###fixed-bottom-ad
+sd.zjtcn.com##.fixed-bottom-ad.on
+u1942095.ctfile.com##.speedydown-info-box
+u1942095.ctfile.com##.row-fluid.text-center
+company.gongchang.com##.layout.clearfix
+||vpsdx.com/wp-content/uploads/2019/03/9ccms.jpg
+||imgs.zjtcn.com/group1/M00/12/F2/CgoKZ1yhcdeADFjdAAVzIzIecns328.png
