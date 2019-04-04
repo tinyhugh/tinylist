@@ -213,3 +213,16 @@ sd.zjtcn.com###fixed-bottom-ad
 sd.zjtcn.com##.fixed-bottom-ad.on
 u1942095.ctfile.com##.speedydown-info-box
 u1942095.ctfile.com##.row-fluid.text-center
+buyertrade.taobao.com##img[src="https://aecpm.alicdn.com/simba/img/TB1DAclkirpK1RjSZFhSutSdXXa.jpg"]
+buyertrade.taobao.com###tanxssp_con_mm_12852562_1778064_96170913
+buyertrade.taobao.com###tanxssp-outer-conmm_12852562_1778064_96170913
+buyertrade.taobao.com###alimm-pillar
+crsky.com##.w330.fl.mr20
+paopaoche.net###news-right
+139y.com##.gg_rt
+139y.com##.gglan1
+gamersky.com##.table2
+gouhuo.qq.com##.we-aside
+gl.ali213.net##.glzjll_r
+gl.ali213.net##.glzjshow_fenx
+iqiyi.com##.vpro-banner
