@@ -213,5 +213,3 @@ sd.zjtcn.com###fixed-bottom-ad
 sd.zjtcn.com##.fixed-bottom-ad.on
 u1942095.ctfile.com##.speedydown-info-box
 u1942095.ctfile.com##.row-fluid.text-center
-||vpsdx.com/wp-content/uploads/2019/03/9ccms.jpg
-||imgs.zjtcn.com/group1/M00/12/F2/CgoKZ1yhcdeADFjdAAVzIzIecns328.png
