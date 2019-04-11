@@ -226,3 +226,4 @@ gouhuo.qq.com##.we-aside
 gl.ali213.net##.glzjll_r
 gl.ali213.net##.glzjshow_fenx
 iqiyi.com##.vpro-banner
+iqiyi.com##.qy-scroll-vpro
