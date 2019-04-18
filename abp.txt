@@ -227,3 +227,6 @@ gl.ali213.net##.glzjll_r
 gl.ali213.net##.glzjshow_fenx
 iqiyi.com##.vpro-banner
 iqiyi.com##.qy-scroll-vpro
+iqiyi.com##.qy-scroll-vpro
+lanzous.com##div[style="position: fixed;height: 225px;width: 300px;right: 0;bottom: 0;z-index: 9;"]
+lanzous.com##div[style="position: absolute;height: 110px;width: 990px;margin-top: 30px;"]
