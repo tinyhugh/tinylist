@@ -219,3 +219,10 @@ zh.numberempire.com##.warn
 zhihu.com##.AdblockBanner
 zhmdy.top##.tit-name
 zhuanlan.zhihu.com##.Recommendations-Main
+t.cj.sina.com.cn###tab_related
+t.cj.sina.com.cn##.blk-related.clearfix
+t.cj.sina.com.cn##.rank-blk-media
+t.cj.sina.com.cn##.m-blk6
+t.cj.sina.com.cn##.m-author-article-list
+s.taobao.com##.m-shopstar
+||img.alicdn.com/tfscom/TB1bI1XTxjaK1RjSZKzXXXVwXXa.jpeg
