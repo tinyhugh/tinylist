@@ -226,3 +226,15 @@ t.cj.sina.com.cn##.m-blk6
 t.cj.sina.com.cn##.m-author-article-list
 s.taobao.com##.m-shopstar
 ||img.alicdn.com/tfscom/TB1bI1XTxjaK1RjSZKzXXXVwXXa.jpeg
+toutiao.com##.bui-right.index-right
+mini.7junshi.com##.informationflow
+mini.7junshi.com##.bg
+mini.7junshi.com##.bottomflow
+mini.7junshi.com##.search-word
+mini.7junshi.com##.breaknovel-ave
+bbs.csdn.net##.post_recommend
+bbs.csdn.net##.recommend-fixed-box
+bbs.csdn.net##.pulllog-box
+bbs.csdn.net##.post_feed_box
+suflow.iteye.com##.boutique-curr-box.blog_comment
+csdn.net##.csdn-tracking-statistics
