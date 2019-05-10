@@ -238,3 +238,4 @@ bbs.csdn.net##.pulllog-box
 bbs.csdn.net##.post_feed_box
 suflow.iteye.com##.boutique-curr-box.blog_comment
 csdn.net##.csdn-tracking-statistics
+zhihu.com##.Sticky
