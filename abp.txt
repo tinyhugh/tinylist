@@ -232,10 +232,5 @@ mini.7junshi.com##.bg
 mini.7junshi.com##.bottomflow
 mini.7junshi.com##.search-word
 mini.7junshi.com##.breaknovel-ave
-bbs.csdn.net##.post_recommend
-bbs.csdn.net##.recommend-fixed-box
-bbs.csdn.net##.pulllog-box
-bbs.csdn.net##.post_feed_box
 suflow.iteye.com##.boutique-curr-box.blog_comment
-csdn.net##.csdn-tracking-statistics
 zhihu.com##.Sticky
