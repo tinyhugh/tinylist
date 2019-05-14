@@ -234,3 +234,7 @@ mini.7junshi.com##.search-word
 mini.7junshi.com##.breaknovel-ave
 suflow.iteye.com##.boutique-curr-box.blog_comment
 zhihu.com##.Sticky
+pan.baidu.com###cpro_u2380627
+jb51.net##.article-right
+jb51.net###con_all
+jb51.net##.xgcomm.clearfix
