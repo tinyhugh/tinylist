@@ -238,3 +238,6 @@ pan.baidu.com###cpro_u2380627
 jb51.net##.article-right
 jb51.net###con_all
 jb51.net##.xgcomm.clearfix
+ruvi.tv
+viidii.info##.al
+bilibili.com##.slide_ad
