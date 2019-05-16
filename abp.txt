@@ -242,3 +242,7 @@ ruvi.tv
 viidii.info##.al
 bilibili.com###slide_ad
 guandianzhiku.com##div.ad
+guandianzhiku.com##div.import-message.visible-lg
+guandianzhiku.com##div.hint-text.hidden-xs
+guandianzhiku.com##div.text-center.footer
+guandianzhiku.com##div.hint-text-instruction
