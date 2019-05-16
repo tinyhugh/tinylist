@@ -240,4 +240,4 @@ jb51.net###con_all
 jb51.net##.xgcomm.clearfix
 ruvi.tv
 viidii.info##.al
-bilibili.com##.slide_ad
+bilibili.com###slide_ad
