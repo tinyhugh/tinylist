@@ -246,3 +246,5 @@ guandianzhiku.com##div.import-message.visible-lg
 guandianzhiku.com##div.hint-text.hidden-xs
 guandianzhiku.com##div.text-center.footer
 guandianzhiku.com##div.hint-text-instruction
+guandianzhiku.com##.navbar.navbar-default.nav-defination
+guandianzhiku.com##.text-center.footer
