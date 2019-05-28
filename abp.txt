@@ -248,3 +248,12 @@ guandianzhiku.com##div.text-center.footer
 guandianzhiku.com##div.hint-text-instruction
 guandianzhiku.com##.navbar.navbar-default.nav-defination
 guandianzhiku.com##.text-center.footer
+zhihu.com##.Pc-word
+sohu.com###right-side-bar
+sohu.com##.sidebar.right
+sohu.com###news-recommend-nav
+sohu.com##.groom-menu.clear
+sohu.com##.news-wrapper
+sohu.com###float-btn
+sohu.com##.float-links
+sohu.com##.article-do
