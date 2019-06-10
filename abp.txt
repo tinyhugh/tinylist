@@ -257,3 +257,11 @@ sohu.com##.news-wrapper
 sohu.com###float-btn
 sohu.com##.float-links
 sohu.com##.article-do
+360kuai.com###detail_flow
+360kuai.com##.ndetail-btn-area.ndetail-btn-area-middle
+360kuai.com###day_hot_news
+360kuai.com###articleFooter
+360kuai.com##.bottom_rectangle_gg_outer_box
+360kuai.com##.aside-area.wonderful-recommend.exchange_position_recommend
+360kuai.com###content_top_gg
+360kuai.com##.content-title-bottom-gg
