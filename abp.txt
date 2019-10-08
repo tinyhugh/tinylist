@@ -281,3 +281,15 @@ youtube.com###banner
 youtube.com##.style-scope.ytd-action-companion-ad-renderer.no-transition
 youtube.com###companion
 youtube.com##.style-scope.ytd-companion-slot-renderer
+yadi.sk##.direct-public__right-direct-wrapper
+disk.yandex.com##.direct.root__bottom-ad
+limedia.tw##.td-ss-main-sidebar
+bilibili.com##.slide_ad
+cr173.com##.c_info_side
+cr173.com###class-soft
+cr173.com##.screenshots.c_box
+cr173.com##.m-bdtn.downnowgaosu
+cr173.com##.span9.g-nav-nav
+cr173.com##.span9.g-nav-label
+cr173.com##.row.g-nav-box
+||baidupan.cdn.bcebos.com/baidu_share.png?t=0.5121875519157324
