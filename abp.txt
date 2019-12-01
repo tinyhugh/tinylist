@@ -306,3 +306,4 @@ zhihu.com##.Pc-word
 zhihu.com##.Sticky
 zhmdy.top##.tit-name
 zhuanlan.zhihu.com##.Recommendations-Main
+3dmgame.com###Comments_wrap > a:nth-child(3) > img
