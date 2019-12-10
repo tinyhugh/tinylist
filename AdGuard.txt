@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum:  
 ! Version: 201904261134
-! Title: TinyList
+! Title: TinyList-AdGuard
 ! Last modified: 26 Apr 2019 11:34 UTC
 ! Expires: 1 days (update frequency)
 ! 
