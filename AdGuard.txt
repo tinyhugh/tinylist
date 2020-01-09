@@ -9,3 +9,23 @@
 3dmgame.com###Comments_wrap > a:nth-child(3) > img
 down.ali213.net###down_load > div.detail_body_left_info_con:last-child > div.detail_body_left_info_con_srgz:last-child
 qd.ke.com##div.CLICKDATA:nth-child(20)
+huya.com###J_roomGg1
+huya.com###J_hySide
+douyu.com###__h5player > div.pwd-990896:nth-child(11) > div.pwd_bg-3df321
+huya.com###sidebar-scroll > div.jspContainer > div.jspPane:first-child > div.sidebar-banner:last-child
+pan.baidu.com###doc > div.phone-banner:first-child
+xyj321.com##div.foot_alert_wrap:nth-child(23) > div.fixed_bigbar.fixed_bar:first-child > div.bjb
+share.weiyun.com###app > div.layout-wrapper > div.layout-body:last-child > div.layout-body-inner > div.layout-main-wrap > div.layout-sider-bar:last-child
+tc5.us###main-content > div.container > div.content:first-child > div.card.bg-light.mb-3:nth-child(10)
+detail.i56.taobao.com##div.rb-op:nth-child(9)
+pan.baidu.com###doc > div.phone-banner:first-child
+samr.cfda.gov.cn###img > a:last-child > img
+down.52pk.com###main > div.sidebar.rt:nth-child(3)
+down.52pk.com##div.header:nth-child(13) > div.top-recommend.rt:last-child
+down.52pk.com##div.header:nth-child(8) > div.top-recommend.rt:last-child
+down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.ad:nth-child(4)
+down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.arcTitle:nth-child(3)
+down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.pinglun:last-child
+down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.contentBox:nth-child(2) > div.page:last-child
+down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.contentBox:nth-child(2) > div.showBox:nth-child(4) > p:last-child
+down.52pk.com##.top-recommend, .rt
