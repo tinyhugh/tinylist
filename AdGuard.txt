@@ -29,3 +29,15 @@ down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.pinglun:last-chi
 down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.contentBox:nth-child(2) > div.page:last-child
 down.52pk.com###main > div.articleContent.lt:nth-child(2) > div.contentBox:nth-child(2) > div.showBox:nth-child(4) > p:last-child
 down.52pk.com##.top-recommend, .rt
+escapefromtarkov.gamepedia.com###middlemrec_escapefromtarkov_gamepedia
+17k.com###readArea > div.rightSide:last-child
+17k.com##div.area:nth-child(7) > div.tuijian:last-child
+post.smzdm.com###feed-side
+iphone.poppur.com##div.clearfix.saya-container:nth-child(3) > div.col-full-content:last-child > div.saya > div.sidebar:last-child
+cn.nytimes.com##div.article-ribbon:nth-child(9)
+cn.nytimes.com##main.container-fluid.main.clearfix:nth-child(2) > div.article-area:nth-child(3) > article.article-content.font-normal:nth-child(3) > div.row:last-child > div.article-left > section.article-body:first-child > div.article-partial:first-child
+cn.nytimes.com##main.container-fluid.main.clearfix:nth-child(2) > div.article-area:nth-child(3) > article.article-content.font-normal:nth-child(3) > div.row:last-child > div.article-left > section.article-body:first-child > div.article-partial:nth-child(3) > div.article-body-aside.col-lg-3:last-child
+facebook.com###u_0_1l
+teapm.com###content > article.post:first-child > div.shadimg:nth-child(2)
+yun.cn###ice-container > div.DetailLayout--container--264z8Xd:first-child > div.DetailLayout--content--14Z28Ay:nth-child(2) > div.share-detail-content > div.ShareDetail--content-body--3dZcv3x:last-child > div.share-content:first-child > div.PCLandingBanner--ad-block--78JV4X2:last-child
+shop.10086.cn##div.content.clearfix.position:nth-child(12) > div.sidebar.floatleft:first-child > div.marginBottom10:last-child
