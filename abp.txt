@@ -306,6 +306,3 @@ zhihu.com##.Pc-word
 zhihu.com##.Sticky
 zhmdy.top##.tit-name
 zhuanlan.zhihu.com##.Recommendations-Main
-||v.smtcdns.net^$domain=www.douyu.com
-||p2p.huya.com^$domain=www.huya.com
-||lxdns.com^$domain=www.panda.tv
