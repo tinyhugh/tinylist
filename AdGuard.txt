@@ -40,3 +40,9 @@ facebook.com###u_0_1l
 teapm.com###content > article.post:first-child > div.shadimg:nth-child(2)
 yun.cn###ice-container > div.DetailLayout--container--264z8Xd:first-child > div.DetailLayout--content--14Z28Ay:nth-child(2) > div.share-detail-content > div.ShareDetail--content-body--3dZcv3x:last-child > div.share-content:first-child > div.PCLandingBanner--ad-block--78JV4X2:last-child
 shop.10086.cn##div.content.clearfix.position:nth-child(12) > div.sidebar.floatleft:first-child > div.marginBottom10:last-child
+juejin.im###juejin > div.recommend-box:last-child > div.extension
+v2rayssr.com##div.mask:nth-child(37)
+@@||s.taobao.com/search?q=usb%E8%BD%ACtype-c&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20201223&ie=utf8
+domp4.com###HMcoupletDivleft > a.jjjjasdasd
+domp4.com###HMcoupletDivright > a.jjjjasdasd
+domp4.com###HMRichBox
