@@ -46,3 +46,15 @@ v2rayssr.com##div.mask:nth-child(37)
 domp4.com###HMcoupletDivleft > a.jjjjasdasd
 domp4.com###HMcoupletDivright > a.jjjjasdasd
 domp4.com###HMRichBox
+! douyu.com
+*.ourdvsss.com/live?msg=getpeer
+*api.galaxyclouds.cn/p2p
+*congyicn.com/FlashP2PMonitorNew/
+*congyicn.com/dist/yhp2p.min.js
+proxy-tel-s.alicdn.com/f/pcdn*
+sdkapi.douyucdn.cn/p2p*
+
+! huya.com
+*.va.huya.com
+*.p2p.huya.com
+statwup.huya.com
