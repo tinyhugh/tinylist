@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Checksum:  
-! Version: 202106100859
+! Version: 202106160859
 ! Title: TinyList-AdGuard
 ! Expires: 1 days (update frequency)
 ! 
@@ -53,3 +53,18 @@ domp4.com###HMRichBox
 *congyicn.com/dist/yhp2p.min.js
 proxy-tel-s.alicdn.com/f/pcdn*
 sdkapi.douyucdn.cn/p2p*
+dl.3dmgame.com##div:nth-child(24)
+dl.3dmgame.com###note
+m.26ksw.cc###wrapper > div.ywtop:first-child
+m.26ksw.cc###wrapper > div.header:nth-child(2)
+m.26ksw.cc###wrapper > h2:nth-child(4)
+m.26ksw.cc###wrapper > div.nav:nth-child(3)
+m.26ksw.cc###main > div.content_read > div.box_con > div.bookname:nth-child(2) > div.lm:last-child
+m.26ksw.cc###footer
+bbs.3dmgame.com##div:nth-child(14)
+bbs.3dmgame.com###iFrameshow
+bbs.3dmgame.com###note
+bbs.3dmgame.com###pid180140455 > tbody > tr:first-child > td.plc:last-child > div.pct:last-child > div.a_pt:first-child
+bbs.3dmgame.com##.a_pt
+https://go.dlads.cn/v1.php?id=5997&p=aj0wJnBsPTMmbT00JmY9MCZyPWh0dHBzJTNBJTJGJTJGYmJzLjNkbWdhbWUuY29tJTJGZm9ydW0tMjA2NC0xLmh0bWwmaz0mdT1odHRwcyUzQSUyRiUyRmJicy4zZG1nYW1lLmNvbSUyRnRocmVhZC01OTk0NDY0LTEtMS5odG1sJnJlcz0xOTIweDEwODAmdD0lRTYlQjElODIlRTYlOTUlOTklRTUlQTQlOUElRTQlQkElQkElRTglODElOTQlRTYlOUMlQkElRTclOUElODQlRTQlQkElQkElRTYlOTUlQjAlRTklOTklOTAlRTUlODglQjYlRTUlQTYlODIlRTQlQkQlOTUlRTQlQkYlQUUlRTYlOTQlQjklMjAtJTIwJUUzJTgwJThBJUU1JUJDJTgyJUU2JTk4JTlGJUU2JThFJUEyJUU5JTk5JUE5JUU1JUFFJUI2JUUzJTgwJThCJTIwLSUyMDNETUdBTUUlRTglQUUlQkElRTUlOUQlOUIlMjAtJTIwUG93ZXJlZCUyMGJ5JTIwRGlzY3V6ISZsPXpoLUNOJmM9MSZoPTIwMDYmc2U9Mg==&l=YmJzLjNkbWdhbWUuY29t&t=1621403653$domain=bbs.3dmgame.com
+bbs.3dmgame.com##div:nth-child(15)
