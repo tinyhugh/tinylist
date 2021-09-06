@@ -69,3 +69,6 @@ bbs.3dmgame.com##.a_pt
 https://go.dlads.cn/v1.php?id=5997&p=aj0wJnBsPTMmbT00JmY9MCZyPWh0dHBzJTNBJTJGJTJGYmJzLjNkbWdhbWUuY29tJTJGZm9ydW0tMjA2NC0xLmh0bWwmaz0mdT1odHRwcyUzQSUyRiUyRmJicy4zZG1nYW1lLmNvbSUyRnRocmVhZC01OTk0NDY0LTEtMS5odG1sJnJlcz0xOTIweDEwODAmdD0lRTYlQjElODIlRTYlOTUlOTklRTUlQTQlOUElRTQlQkElQkElRTglODElOTQlRTYlOUMlQkElRTclOUElODQlRTQlQkElQkElRTYlOTUlQjAlRTklOTklOTAlRTUlODglQjYlRTUlQTYlODIlRTQlQkQlOTUlRTQlQkYlQUUlRTYlOTQlQjklMjAtJTIwJUUzJTgwJThBJUU1JUJDJTgyJUU2JTk4JTlGJUU2JThFJUEyJUU5JTk5JUE5JUU1JUFFJUI2JUUzJTgwJThCJTIwLSUyMDNETUdBTUUlRTglQUUlQkElRTUlOUQlOUIlMjAtJTIwUG93ZXJlZCUyMGJ5JTIwRGlzY3V6ISZsPXpoLUNOJmM9MSZoPTIwMDYmc2U9Mg==&l=YmJzLjNkbWdhbWUuY29t&t=1621403653$domain=bbs.3dmgame.com
 bbs.3dmgame.com##div:nth-child(15)
 blog.csdn.net###csdn-toolbar > div.toolbar-advert:first-child
+blog.csdn.net##div.login-mark:nth-child(48)
+blog.csdn.net###passportbox
+blog.csdn.net###csdn-toolbar > div.toolbar-advert:first-child
